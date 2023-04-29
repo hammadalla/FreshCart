@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.461f0aac.css",
+    "main.js": "./static/js/main.dc8213a3.js",
+    "static/js/787.8227fffd.chunk.js": "./static/js/787.8227fffd.chunk.js",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/slider-image-1.jpeg": "./static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/slider-image-3.jpeg": "./static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "./static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/error.svg": "./static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/tenor.gif": "./static/media/tenor.7906cbf7e09e6cb0da8c.gif",
+    "static/media/R.png": "./static/media/R.9051eeb1da6178f49bc9.png",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/iphone-app-store-apple-store-stock-removebg-preview.png": "./static/media/iphone-app-store-apple-store-stock-removebg-preview.7f8839008a0f68f04281.png",
+    "static/media/PayPal-Logo.png": "./static/media/PayPal-Logo.518ac7157897e89f6dd0.png",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/1280px-Amazon_Pay_logo.svg-768x148.webp": "./static/media/1280px-Amazon_Pay_logo.svg-768x148.dc81b34bdcea09dbc23a.webp",
+    "static/media/iconfinder_android-app-on-google-play_720092-removebg-preview.png": "./static/media/iconfinder_android-app-on-google-play_720092-removebg-preview.034b1e676dd62c420d80.png",
+    "static/media/freshcart-logo.svg": "./static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "./index.html",
+    "main.461f0aac.css.map": "./static/css/main.461f0aac.css.map",
+    "main.dc8213a3.js.map": "./static/js/main.dc8213a3.js.map",
+    "787.8227fffd.chunk.js.map": "./static/js/787.8227fffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.461f0aac.css",
+    "static/js/main.dc8213a3.js"
+  ]
+}
